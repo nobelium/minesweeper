@@ -1,0 +1,28 @@
+{
+  "name": "MineSweeper",
+  "version": "0.0.1",
+  "authors": [
+    "nobelium <me@vignesh.info>"
+  ],
+  "description": "Mine sweeper jquery plugin",
+  "main": "src/minesweeper.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "minesweeper"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "jquery-ui": "~1.11.1"
+  }
+}

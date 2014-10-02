@@ -1,0 +1,8 @@
+# Ignore by git
+
+# Folders
+node_modules
+bower_components
+
+# Files
+*~
